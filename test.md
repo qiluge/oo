@@ -1,13 +1,13 @@
 ## Ontology CLI 用户指南
-* [CLI Account 命令](#CLI-Account-命令)
+* [CLI Account 命令](#cli-account-命令)
 
-* [CLI Info Show 命令](#CLI-Info-Show-命令)
+* [CLI Info Show 命令](#cli-info-show-命令)
 
-* [CLI ASSET 命令](#CLI-ASSET-命令)
+* [CLI ASSET 命令](#cli-aSSET-命令)
 
-* [CLI Setting 命令](#CLI-Setting-命令)
+* [CLI Setting 命令](#cli-setting-命令)
 
-* [CLI Contract 命令](#CLI-Contract-命令)
+* [CLI Contract 命令](#cli-contract-命令)
 
 ```
 用户可以使用以下命令直接启动ontology：
