@@ -3,7 +3,7 @@
 
 * [CLI Info Show 命令](#cli-info-show-命令)
 
-* [CLI ASSET 命令](#cli-aSSET-命令)
+* [CLI ASSET 命令](#cli-asset-命令)
 
 * [CLI Setting 命令](#cli-setting-命令)
 
